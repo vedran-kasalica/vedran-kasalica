@@ -3,7 +3,7 @@
 <br/>
 
 I work as a Research Software Engineer :computer: in Life Sciences :seedling:.<br/>
-I have PhD in Computer Science :mortar_board:.<br/>
+I have a PhD in Computer Science :mortar_board:.<br/>
 I am passionate about Graphical Design :straight_ruler:, 3D Printing, Hiking :mount_fuji: and Board Games :game_die:.
 <br/><br/>
 
